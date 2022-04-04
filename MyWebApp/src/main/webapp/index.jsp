@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>That's it i gave it my best</h2>
+<h2>A project to test pipeline and webhooks</h2>
 </body>
 </html>
